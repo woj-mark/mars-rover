@@ -16,4 +16,4 @@ Over the suggested 3 hours slot for the task, I prioritised implementation of th
 
 The solution simulates the correct position, orientation (and whether lost or not), but I didn't manage to implement the functionality to parse the Mars Rover object to strings as specified in the project sheet. If I had more time, I would add a function which would parse the final Mars Rover objects into strings printed in the console which would be more user-friendly. I would also add a functionality to allow the user to provide the inputs in the console.
 
-If I had more time, I would make the programme more robust against illegal user inputs (i.e. nulls, negative integers etc.), spot errors and propagate them. I admit that there is currently a limited amount of validation of user inputs other than those provided in the documentation. 
+If I had more time, I would make the programme more robust against illegal user inputs (i.e. nulls, negative integers etc.), spot errors and propagate them. I am aware that there is currently a limited amount of validation of user inputs other than those provided in the documentation. 
