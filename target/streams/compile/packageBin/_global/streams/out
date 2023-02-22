@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\User\Programming\Scala\mars_rover\mars-rover\target\scala-2.13\mars-rover_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	rover[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Programming\Scala\mars_rover\mars-rover\target\scala-2.13\classes\rover[0m
+[0m[[0m[0mdebug[0m] [0m[0m	rover\CommandParser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Programming\Scala\mars_rover\mars-rover\target\scala-2.13\classes\rover\CommandParser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	rover\CommandParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Programming\Scala\mars_rover\mars-rover\target\scala-2.13\classes\rover\CommandParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	rover\Grid$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Programming\Scala\mars_rover\mars-rover\target\scala-2.13\classes\rover\Grid$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	rover\Grid.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Programming\Scala\mars_rover\mars-rover\target\scala-2.13\classes\rover\Grid.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	rover\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Programming\Scala\mars_rover\mars-rover\target\scala-2.13\classes\rover\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	rover\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Programming\Scala\mars_rover\mars-rover\target\scala-2.13\classes\rover\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	rover\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Programming\Scala\mars_rover\mars-rover\target\scala-2.13\classes\rover\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	rover\Rover$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Programming\Scala\mars_rover\mars-rover\target\scala-2.13\classes\rover\Rover$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	rover\Rover.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\Programming\Scala\mars_rover\mars-rover\target\scala-2.13\classes\rover\Rover.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

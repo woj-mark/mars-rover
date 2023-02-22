@@ -1,0 +1,22 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(rover.RoverSuite, org.scalatest.tools.Framework$$anon$1@1d1eb66f, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(rover.CommandParserSuite, org.scalatest.tools.Framework$$anon$1@1d1eb66f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCommandParserSuite:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parsing input lines into rover variables should be correct[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parsing input lines into rover commands List[Char] is correct[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mRoverSuite:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- moveForward should change the position of the rover correctly within bounds[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- moveForward should mark rover as lost if heading out of the grid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Commands should return a lost rover with the same position[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- testing isOutOfGrid function[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- turnRight should rotate the rover correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- turnLeft should rotate the rover correctly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- movingOutOfBounds should return a correct boolean [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- executeCommand should transform the state of the rover accordingly[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 603 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 10[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 10, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	rover.CommandParserSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	rover.RoverSuite[0m

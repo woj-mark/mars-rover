@@ -1,0 +1,4 @@
+[debug] [mars-rover-test] Classpath dependencies List()
+[debug] [mars-rover-test] Dependencies from configurations List(mars-rover)
+[debug] Bloop wrote the configuration of project 'mars-rover-test' to 'C:\Users\User\Programming\Scala\mars_rover\mars-rover\.bloop\mars-rover-test.json'
+[success] Generated .bloop\mars-rover-test.json
