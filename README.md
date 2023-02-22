@@ -2,7 +2,7 @@
 
 ### Overview
 This repository contains my solution to the Mars Rover problem using Scala.
-I have attempted the problem using Scala and functional programming. I adopted Test Driven Development using ScalaTest package and used immutable data structures, algebraic data types (ADTs) and pure functions to model the behaviour of the rover and parse the inputs. In my opinion, this makes reasoning about code easier and simplifies testing.
+I have attempted the problem using Scala and functional programming. I adopted Test Driven Development and used immutable data structures, algebraic data types (ADTs) and pure functions to model the behaviour of the rover and parse the inputs. In my opinion, this makes reasoning about code easier and simplifies testing.
 
 ### How to run the program
 It is assumed that the user has sbt installed on their machine. If not, please refer to the following [link](https://www.scala-sbt.org/1.x/docs/Setup.html) to learn how to install it.
